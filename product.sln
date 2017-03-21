@@ -5,6 +5,14 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "product", "product\product.csproj", "{ADFAFBAC-FF75-4017-9F28-3C1C234579D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "noppa", "noppa\noppa.csproj", "{CA695F41-0A51-4210-B8EB-B84ED8229BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalapaikka", "kalapaikka\kalapaikka.csproj", "{23E1929B-2742-4C12-A33C-925C62EE741F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tehtava4", "tehtava4\tehtava4.csproj", "{C1BF7747-2407-4B63-8DAD-55C5E5D486F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tehtava5", "tehtava5\tehtava5.csproj", "{478AA760-F931-49FF-B3C5-698E4F5935E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{ADFAFBAC-FF75-4017-9F28-3C1C234579D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADFAFBAC-FF75-4017-9F28-3C1C234579D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADFAFBAC-FF75-4017-9F28-3C1C234579D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA695F41-0A51-4210-B8EB-B84ED8229BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA695F41-0A51-4210-B8EB-B84ED8229BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA695F41-0A51-4210-B8EB-B84ED8229BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA695F41-0A51-4210-B8EB-B84ED8229BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E1929B-2742-4C12-A33C-925C62EE741F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E1929B-2742-4C12-A33C-925C62EE741F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E1929B-2742-4C12-A33C-925C62EE741F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E1929B-2742-4C12-A33C-925C62EE741F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BF7747-2407-4B63-8DAD-55C5E5D486F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BF7747-2407-4B63-8DAD-55C5E5D486F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BF7747-2407-4B63-8DAD-55C5E5D486F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BF7747-2407-4B63-8DAD-55C5E5D486F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478AA760-F931-49FF-B3C5-698E4F5935E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478AA760-F931-49FF-B3C5-698E4F5935E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478AA760-F931-49FF-B3C5-698E4F5935E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478AA760-F931-49FF-B3C5-698E4F5935E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

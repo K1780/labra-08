@@ -4,12 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace product
+namespace JAMK.IT
 {
-    class Program
+    public class Product
     {
-        static void Main(string[] args)
+        public string Nimi { get; set; }
+        public double Hinta { get; set; }
+
+        public Product()
+        { }
+
+        public Product(string nimi, double hinta)
         {
+            Nimi = nimi;
+            Hinta = hinta;
+        }
+        public override string ToString()
+        {
+            return "-Tuote : " + Nimi + " " + Hinta + " e";
         }
     }
 }
